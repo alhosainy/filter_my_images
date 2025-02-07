@@ -1,0 +1,7 @@
+{
+    "known_image_dir": "F:/python/filter_my_images/known_people",
+    "input_images_path": "F:/python/filter_my_images/known_people",
+    "output_image_path": "F:/python/filter_my_images/New folder",
+    "tolerance_level": 0.5490153172866521,
+    "delete_after_copy": true
+}
